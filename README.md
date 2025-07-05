@@ -29,8 +29,8 @@ This interactive dashboard provides a comprehensive view of an **Online Retail S
 
 ---
 
-## 📷 Dashboard Screenshots  
-> *(Insert actual screenshots below)*  
+##  Dashboard Overview
+
 - Sales Overview  
 - Product Performance  
 - Region-wise Trends  
